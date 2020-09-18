@@ -3,5 +3,6 @@
 </a></div>
 
 </div>
-<a href="http://qiita.com/shu223"><img src="https://qiita-badge.apiapi.app/s/shu223/contributions.svg" alt="My Qiita contributions"></a>
+<a href="https://qiita.com/shu223"><img src="https://qiita-badge.apiapi.app/s/shu223/contributions.svg" alt="My Qiita contributions"></a>
+<a href="https://twitter/shu223">![Twitter Follow](https://img.shields.io/twitter/follow/shu223.svg?style=social)</a>
 </div>
